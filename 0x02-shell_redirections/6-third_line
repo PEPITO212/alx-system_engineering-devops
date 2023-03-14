@@ -1,3 +1,2 @@
 #!/bin/bash
-# Read the third line of the file iacta and print it to the console
 head -n 3 iacta | tail -n 1
